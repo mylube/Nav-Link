@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ShadowMap" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/float_accent</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">#FF121212</item>
+    </style>
+
+    <style name="Theme.ShadowMap" parent="Base.Theme.ShadowMap" />
+</resources>

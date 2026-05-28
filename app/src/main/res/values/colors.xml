@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- 悬浮窗颜色 -->
+    <color name="float_bg">#CC1A1A2E</color>
+    <color name="float_bg_light">#DD2D2D44</color>
+    <color name="float_text_primary">#FFFFFFFF</color>
+    <color name="float_text_secondary">#AAFFFFFF</color>
+    <color name="float_accent">#FF4FC3F7</color>
+    <color name="float_warning">#FFFF9800</color>
+    <color name="float_danger">#FFF44336</color>
+    <color name="float_safe">#FF4CAF50</color>
+    <color name="float_divider">#33FFFFFF</color>
+
+    <!-- 超速相关 -->
+    <color name="speed_normal">#FF4CAF50</color>
+    <color name="speed_warning">#FFFF9800</color>
+    <color name="speed_over">#FFF44336</color>
+</resources>
